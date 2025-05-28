@@ -1,3 +1,10 @@
+# APIs
+## onramp
+https://docs.cdp.coinbase.com/onramp/docs/api-configurations
+
+## offramp
+https://docs.cdp.coinbase.com/onramp/docs/api-offramp-configurations#offramp-config
+
 # CB Onramp quickstart
 
 ## Introduction
